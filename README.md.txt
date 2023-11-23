@@ -1,2 +1,2 @@
 CouCou
-“Le code commente sur la m ́et ́eo”.
+Le code commente sur la meteo.
