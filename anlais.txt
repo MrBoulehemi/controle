@@ -1,1 +1,1 @@
-print("il fait tres froid aujourdhui")
+print("il fait Froid aujourdhui")
