@@ -1,0 +1,19 @@
+6aa40bf (HEAD -> main) HEAD@{0}: commit: log
+63f95df (origin/main, origin/HEAD) HEAD@{1}: checkout: moving from tobedeleted to main
+e0fd47f HEAD@{2}: commit: azerty
+63f95df (origin/main, origin/HEAD) HEAD@{3}: checkout: moving from main to tobedeleted
+63f95df (origin/main, origin/HEAD) HEAD@{4}: reset: moving to HEAD
+63f95df (origin/main, origin/HEAD) HEAD@{5}: cherry-pick: “Le code partage ses hobbies”.
+1ed369f (meteo) HEAD@{6}: checkout: moving from hobby to main
+9fdc88a (hobby) HEAD@{7}: commit: “Le code partage ses hobbies”.
+fdb7fc7 HEAD@{8}: commit: modefication hobby
+1ed369f (meteo) HEAD@{9}: checkout: moving from main to hobby
+1ed369f (meteo) HEAD@{10}: merge meteo: Fast-forward
+1eb085e HEAD@{11}: checkout: moving from meteo to main
+1ed369f (meteo) HEAD@{12}: commit: “README dans la branche meteo”.
+03cab0b HEAD@{13}: commit: modefication meteo
+1eb085e HEAD@{14}: checkout: moving from main to meteo
+1eb085e HEAD@{15}: checkout: moving from main to main
+1eb085e HEAD@{16}: commit: “README dans la branche m ́et ́eo”.
+cb5aaa9 HEAD@{17}: commit: modification meteo
+:
