@@ -1,3 +1,1 @@
-Bonjour
-Merci Mme vous êtes une prof exceptionnelle 
-Cordialement 
+print("il fait tres froid aujourdhui")
