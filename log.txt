@@ -1,0 +1,21 @@
+commit 63f95df797f80ae2f233975a0cff979d206cc2d1 (HEAD -> main, origin/main, origin/HEAD)
+Author: MrBoulehmi <firas.boulehmi.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:58:25 2023 +0100
+
+    “Le code partage ses hobbies”.
+
+commit 1ed369f06e02cb89d5f3b96b33c41bc70679bce2 (meteo)
+Author: MrBoulehmi <firas.boulehmi.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:56:08 2023 +0100
+
+    “README dans la branche meteo”.
+
+commit 03cab0b2993bfc1aae61b7b711fe76c951ae9024
+Author: MrBoulehmi <firas.boulehmi.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:55:29 2023 +0100
+
+    modefication meteo
+
+commit 1eb085edd5c25cfe1376e690e92829f677e8e467
+Author: MrBoulehmi <firas.boulehmi.edu@groupe-gema.com>
+:
